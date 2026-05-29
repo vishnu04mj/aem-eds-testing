@@ -1,6 +1,9 @@
 footer {
   background-color: green;
   font-size: var(--body-font-size-xs);
+  p {
+    color: white
+  }
 }
 
 footer .footer > div {
